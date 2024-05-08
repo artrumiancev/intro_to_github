@@ -1,17 +1,17 @@
 [tool.poetry]
-name = "my-python-repository"
+name = "intro-to-github"
 version = "0.1.0"
 description = ""
-authors = ["Artiom Rumiancev <artiom.rumiancev@kcl.ac.uk>"]
+authors = ["Artiom Rumiancev <artiom.rumiancev@kcl.ac.uk>", "Carson McKee <carson.mckee@kcl.ac.uk>"]
 readme = "README.md"
-packages = [{include = "my_python_repository"}]
+packages = [{include = "python_instructions/my_python_repository"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 matplotlib = "^3.8.4"
 
 [tool.setuptools.package-data]
-"my_python_repository" = ["py.typed"]
+"python_instructions/my_python_repository" = ["py.typed"]
 
 [build-system]
 requires = ["poetry-core"]
