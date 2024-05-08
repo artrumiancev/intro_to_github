@@ -2,17 +2,7 @@
 title: "Connecting RStudio to a GitHub Repository"
 author: "Carson McKee"
 date: "2024-04-22"
-output:
-  output: rmarkdown::github_document
-  html_document:
-    toc: true
-    toc_depth: '2'
-    df_print: paged
-  html_notebook:
-    number_sections: true
-    toc: true
-    toc_depth: 2
-    toc_float: true
+output: rmarkdown::github_document
 editor_options:
   chunk_output_type: inline
 ---
