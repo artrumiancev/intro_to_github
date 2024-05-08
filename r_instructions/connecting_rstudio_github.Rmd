@@ -2,7 +2,7 @@
 title: "Connecting RStudio to a GitHub Repository"
 author: "Carson McKee"
 date: "2024-04-22"
-output: rmarkdown::github_document
+output: github_document
 editor_options:
   chunk_output_type: inline
 ---
