@@ -155,7 +155,7 @@ We can initialize the repository as:
 ```powershell
 poetry init
 ```
-This will create a `pyproject.toml` file, where we can add information about the project, including the Python version and dependencies. Poetry will prompt you to do this interractively. For this tutorial, only include the latest version of "matplotib" ("numpy" should be added automatically with it). Once you reach the final step, you will be asked to confirm the generation of `pyproject.toml`, which should look something like:
+This will create a `pyproject.toml` file, where we can add information about the project, including the Python version and dependencies. Poetry will prompt you to do this interractively. For this tutorial, only include the latest version of "matplotlib" ("numpy" should be added automatically with it). Once you reach the final step, you will be asked to confirm the generation of `pyproject.toml`, which should look something like:
 ```powerhsell
 Generated file
 
