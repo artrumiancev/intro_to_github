@@ -1,4 +1,13 @@
 # Networking and training sessions with UCL: Introduction to GitHub - Python
+- [Networking and training sessions with UCL: Introduction to GitHub - Python](#networking-and-training-sessions-with-ucl-introduction-to-github---python)
+  - [Setup](#setup)
+  - [Creating a GitHub Repository](#creating-a-github-repository)
+  - [Working on the Repository (locally)](#working-on-the-repository-locally)
+  - [Creating a Python Project](#creating-a-python-project)
+  - [Pushing the Changes to GitHub](#pushing-the-changes-to-github)
+  - [Additional Notes: Packaging the Python Project](#additional-notes-packaging-the-python-project)
+  - [Additional Notes: Publishing the Python Project to PyPI](#additional-notes-publishing-the-python-project-to-pypi)
+
 ## Setup
 **NOTE:** This tutorial uses `Windows PowerShell` commands. As such, the commands may differ for e.g. Linux/MacOS.
 1.	Download and install **[Git](https://git-scm.com/downloads)**.
